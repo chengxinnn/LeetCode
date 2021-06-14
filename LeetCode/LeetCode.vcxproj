@@ -252,6 +252,9 @@
     <ClInclude Include="线程_生产者消费者_哲学家进餐.h" />
     <ClInclude Include="虚函数.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
