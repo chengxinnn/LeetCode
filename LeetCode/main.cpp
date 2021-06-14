@@ -22,6 +22,7 @@ int main()
 {
 
 	//我在笔记本那边小小改一下
+	// OK  i have received it
 	vector<vector<int>>dp(2);
 	dp[0] = vector<int>(2, 0);
 	dp[1] = vector<int>(5, 1);
