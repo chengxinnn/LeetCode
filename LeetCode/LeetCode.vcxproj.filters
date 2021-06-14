@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{cb2e840a-842c-4de5-8767-0e697e32a24e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Heap">
+      <UniqueIdentifier>{c67fde4c-865d-426c-a707-27d3ecbdbba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{53a1425b-de1d-416e-bc18-cdf665df57f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Offer">
+      <UniqueIdentifier>{7470570f-8ddc-4659-a4f2-50a386827833}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{1c62f42d-f8e2-40cc-b13c-568497301049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Binary_search">
+      <UniqueIdentifier>{4ce8a4fa-b0fe-4c1f-90b1-e16be018ac85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Series">
+      <UniqueIdentifier>{735f4ca5-26ce-475d-b7f3-e43fbdc3538d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="array">
+      <UniqueIdentifier>{7551886d-6617-4c5d-9283-4fbd94183dad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sort">
+      <UniqueIdentifier>{86a7b53d-647e-4b7b-86c3-0a753d27af0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DP">
+      <UniqueIdentifier>{8fc65777-3974-49f5-b573-a5810afe71c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tree">
+      <UniqueIdentifier>{9a740293-23b5-42e9-9527-1a5c2d25ed4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Mianshi">
+      <UniqueIdentifier>{4985294f-a4e3-4c31-94ba-cb2161969de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Design Pattern">
+      <UniqueIdentifier>{491297ac-59dd-4e3f-8b03-c630c2017feb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="015.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="300.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1405.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="978.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="787.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="467.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="494.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="01bag.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="198.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="005.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="213.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="279.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="343_整数拆分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="416.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="718_最长重复子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="463.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="638.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="349.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="004.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="238.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="008.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="007.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="860.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1314.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="649.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="131_回溯.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1367.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="738.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="010.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="290.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="53.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1191.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="449.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1664.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="746.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="103.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="011.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1504.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="012.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="135_分发糖果.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="014.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="017.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="018.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="022.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="023.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="085.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="188.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="025.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="026.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="030.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="034.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="435.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="830.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="036_有效数独.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="029_两数相除.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="043_字符串相乘.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="067_二进制求和.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="168_Excel列表名称.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="202_快乐数.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="264_丑数.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="347_前k个高频元素.h">
+      <Filter>Heap</Filter>
+    </ClInclude>
+    <ClInclude Include="355_tweet.h">
+      <Filter>Heap</Filter>
+    </ClInclude>
+    <ClInclude Include="132_回文串2.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="17从一打印.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="17_大数_衍生.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="07_重建二叉树.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="13_机器人运动范围.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="就叫他螺旋矩阵吧.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="sort.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="priority_queue_.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="59_螺旋矩阵2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="000_heap.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="151_翻转字符串里的单词.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="波兰表达式.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="KMP.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="209_长度最小子数组.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="杨辉三角.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="131_分割回文串.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="78_子集.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="单调栈.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="33_88_搜索旋转排序数组.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="multithread.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="263_264_1201_313_丑数.h">
+      <Filter>Series</Filter>
+    </ClInclude>
+    <ClInclude Include="153_旋转排序数组的最小元素.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="179_最大数.h">
+      <Filter>array</Filter>
+    </ClInclude>
+    <ClInclude Include="999.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="打家劫舍.h">
+      <Filter>Series</Filter>
+    </ClInclude>
+    <ClInclude Include="87_扰乱字符串.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="最小的k个数.h">
+      <Filter>Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="虚函数.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="智能指针.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="字符串匹配.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="363_矩阵区域不大于K的最大数.h">
+      <Filter>array</Filter>
+    </ClInclude>
+    <ClInclude Include="Bound.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="线程_生产者消费者_哲学家进餐.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="参考_哲学家.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="参考_生产者.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="1269.停在原地的方案数.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="1011_D天送达包裹.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="410_分割数组的最大值.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="4_寻找两个正序数组的中位数.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="719_第k小的距离对.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="最长递增子序列.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="204_计算素数_第k个素数.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="208_键树.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="421_数组中两个数的最大异或值.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="208_实现trie.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="677_键值映射.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="1707_与数组元素的最大异或值.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="1190_翻转括号之间的每个字符串.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="32_最长有效括号.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="44_通配符匹配.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="10_正则表达式匹配.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="1143_最长公共子序列.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="offer_51_数组中的逆序对.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="offer_60_n个骰子的点数.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="0107_旋转矩阵.h">
+      <Filter>Mianshi</Filter>
+    </ClInclude>
+    <ClInclude Include="1-1-easyfacotry.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="1-2-factorymethod.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="2-1-singleton-lazy.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="2-1-singleton-thread.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="3-obverser.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="4-adaptor.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="4-1-adaptor.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="5-component.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="6-responsibilityChain.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="7-bridge.h">
+      <Filter>Design Pattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿生成启动时间为 2021/5/16 21:42:36。
+     1>项目“E:\PROJECT\LeetCode\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\programfiles\VS2015\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "719_第k小的距离对.cpp" main.cpp
+         719_第k小的距离对.cpp
+         main.cpp
+     1>e:\project\leetcode\leetcode\sort.h(126): warning C4554: “>>”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>e:\project\leetcode\leetcode\sort.h(331): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\project\leetcode\leetcode\sort.h(653): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\project\leetcode\leetcode\sort.h(668): warning C4101: “end”: 未引用的局部变量
+     1>e:\project\leetcode\leetcode\sort.h(668): warning C4101: “start”: 未引用的局部变量
+     1>e:\project\leetcode\leetcode\sort.h(474): warning C4018: “<”: 有符号/无符号不匹配
+         e:\project\leetcode\leetcode\sort.h(696): note: 参见对正在编译的函数 模板 实例化“void mergeSort2<int>(std::vector<int,std::allocator<_Ty>> &)”的引用
+                 with
+                 [
+                     _Ty=int
+                 ]
+       Link:
+         E:\programfiles\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PROJECT\LeetCode\Release\LeetCode.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\PROJECT\LeetCode\Release\LeetCode.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\PROJECT\LeetCode\Release\LeetCode.lib" /MACHINE:X86 /SAFESEH Release\015.obj
+         "Release\719_第k小的距离对.obj"
+         Release\main.obj
+     1>main.obj : error LNK2005: "void __cdecl ini(void)" (?ini@@YAXXZ) 已经在 719_第k小的距离对.obj 中定义
+     1>E:\PROJECT\LeetCode\Release\LeetCode.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“E:\PROJECT\LeetCode\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.70
