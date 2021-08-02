@@ -64,14 +64,18 @@ void shellSort(vector<T>&vec)
 	while (gap > 1)
 	{
 		gap = gap / 3 + 1;
-		for (i = gap; i < size; i+= gap)
-			if (vec[i] < vec[i - gap])
-			{
-				minele = vec[i];
-				for(j = i - gap; j >= 0 && vec[j] > minele; j -= gap)
-					vec[j + gap] = vec[j];
-				vec[j + gap] = minele;
-			}
+		for (int k = 0; k < gap; k++)
+		{
+			for (i = k + gap; i < size; i += gap)
+				if (vec[i] < vec[i - gap])
+				{
+					minele = vec[i];
+					for (j = i - gap; j >= 0 && vec[j] > minele; j -= gap)
+						vec[j + gap] = vec[j];
+					vec[j + gap] = minele;
+				}
+		}
+
 	}
 }
 
@@ -648,7 +652,7 @@ void sorts(void(*func)(vector<int>&nums), vector<int>vec, string sortans)
 	cout << endl; cout << endl;
 }
 
-void init()
+void ini()
 {
 	const int size = 50;
 	vector<int>nums(size, 0);
@@ -686,7 +690,7 @@ void init()
 	//≤Â»Î≈≈–Ú
 	sorts(insertSort, nums, "≤Â»Î≈≈–Ú");
 	//œ£∂˚≈≈–Ú
-	sorts(shellSort, vector<int>({ 49, 38, 65, 97, 76, 13, 27, 49, 55, 04 }), "œ£∂˚≈≈–Ú");
+	sorts(shellSort, nums, "œ£∂˚≈≈–Ú");
 
 
 

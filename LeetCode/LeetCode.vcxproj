@@ -73,7 +73,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_SCL_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
@@ -143,6 +143,7 @@
     <ClInclude Include="030.h" />
     <ClInclude Include="034.h" />
     <ClInclude Include="036_有效数独.h" />
+    <ClInclude Include="03_数组中重复的数字.h" />
     <ClInclude Include="043_字符串相乘.h" />
     <ClInclude Include="067_二进制求和.h" />
     <ClInclude Include="07_重建二叉树.h" />
@@ -154,6 +155,7 @@
     <ClInclude Include="1143_最长公共子序列.h" />
     <ClInclude Include="1190_翻转括号之间的每个字符串.h" />
     <ClInclude Include="1191.h" />
+    <ClInclude Include="121_股票问题.h" />
     <ClInclude Include="1269.停在原地的方案数.h" />
     <ClInclude Include="131_分割回文串.h" />
     <ClInclude Include="131_回溯.h" />
@@ -172,6 +174,7 @@
     <ClInclude Include="179_最大数.h" />
     <ClInclude Include="17_大数_衍生.h" />
     <ClInclude Include="17从一打印.h" />
+    <ClInclude Include="1818-绝对差值和.h" />
     <ClInclude Include="188.h" />
     <ClInclude Include="198.h" />
     <ClInclude Include="1-1-easyfacotry.h" />
@@ -186,11 +189,13 @@
     <ClInclude Include="238.h" />
     <ClInclude Include="263_264_1201_313_丑数.h" />
     <ClInclude Include="264_丑数.h" />
+    <ClInclude Include="274-h指数.h" />
     <ClInclude Include="279.h" />
     <ClInclude Include="290.h" />
     <ClInclude Include="3-obverser.h" />
     <ClInclude Include="300.h" />
     <ClInclude Include="32_最长有效括号.h" />
+    <ClInclude Include="33-二叉搜索树的后序遍历.h" />
     <ClInclude Include="33_88_搜索旋转排序数组.h" />
     <ClInclude Include="343_整数拆分.h" />
     <ClInclude Include="347_前k个高频元素.h" />
@@ -199,10 +204,12 @@
     <ClInclude Include="363_矩阵区域不大于K的最大数.h" />
     <ClInclude Include="4-1-adaptor.h" />
     <ClInclude Include="4-adaptor.h" />
+    <ClInclude Include="41-数据流中的中位数.h" />
     <ClInclude Include="410_分割数组的最大值.h" />
     <ClInclude Include="416.h" />
     <ClInclude Include="421_数组中两个数的最大异或值.h" />
     <ClInclude Include="435.h" />
+    <ClInclude Include="443-压缩字符串.h" />
     <ClInclude Include="449.h" />
     <ClInclude Include="44_通配符匹配.h" />
     <ClInclude Include="463.h" />
@@ -211,6 +218,8 @@
     <ClInclude Include="4_寻找两个正序数组的中位数.h" />
     <ClInclude Include="5-component.h" />
     <ClInclude Include="53.h" />
+    <ClInclude Include="56-1数组中数字出现的次数.h" />
+    <ClInclude Include="56-2数组中数字出现的次数.h" />
     <ClInclude Include="59_螺旋矩阵2.h" />
     <ClInclude Include="6-responsibilityChain.h" />
     <ClInclude Include="638.h" />
@@ -232,12 +241,21 @@
     <ClInclude Include="999.h" />
     <ClInclude Include="Bound.h" />
     <ClInclude Include="KMP.h" />
+    <ClInclude Include="Mat.h" />
     <ClInclude Include="multithread.h" />
+    <ClInclude Include="nc-huawei2.h" />
+    <ClInclude Include="nc-简单错误记录.h" />
+    <ClInclude Include="offer-20 表示数字的字符串.h" />
+    <ClInclude Include="offer-51-数组中的逆序队.h" />
+    <ClInclude Include="offer12-机器人的运动范围.h" />
+    <ClInclude Include="offer27-打印矩阵.h" />
+    <ClInclude Include="offer55-二叉树深度.h" />
     <ClInclude Include="offer_51_数组中的逆序对.h" />
     <ClInclude Include="offer_60_n个骰子的点数.h" />
     <ClInclude Include="priority_queue_.h" />
     <ClInclude Include="sort.h" />
     <ClInclude Include="util.h" />
+    <ClInclude Include="内存泄漏检测.h" />
     <ClInclude Include="单调栈.h" />
     <ClInclude Include="参考_哲学家.h" />
     <ClInclude Include="字符串匹配.h" />
@@ -248,9 +266,10 @@
     <ClInclude Include="最长递增子序列.h" />
     <ClInclude Include="杨辉三角.h" />
     <ClInclude Include="参考_生产者.h" />
+    <ClInclude Include="死锁.h" />
     <ClInclude Include="波兰表达式.h" />
     <ClInclude Include="线程_生产者消费者_哲学家进餐.h" />
-    <ClInclude Include="虚函数.h" />
+    <ClInclude Include="虚函数表.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.md" />

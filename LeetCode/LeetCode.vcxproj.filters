@@ -52,6 +52,12 @@
     <Filter Include="Design Pattern">
       <UniqueIdentifier>{491297ac-59dd-4e3f-8b03-c630c2017feb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Mat">
+      <UniqueIdentifier>{41cf7d91-37f6-4abd-9607-ccba793a5487}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NowCoder">
+      <UniqueIdentifier>{34f8e4f0-3139-4273-8d6b-093a5732780d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -332,9 +338,6 @@
     <ClInclude Include="最小的k个数.h">
       <Filter>Sort</Filter>
     </ClInclude>
-    <ClInclude Include="虚函数.h">
-      <Filter>Algorithm</Filter>
-    </ClInclude>
     <ClInclude Include="智能指针.h">
       <Filter>Algorithm</Filter>
     </ClInclude>
@@ -445,6 +448,66 @@
     </ClInclude>
     <ClInclude Include="7-bridge.h">
       <Filter>Design Pattern</Filter>
+    </ClInclude>
+    <ClInclude Include="121_股票问题.h">
+      <Filter>DP</Filter>
+    </ClInclude>
+    <ClInclude Include="虚函数表.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="03_数组中重复的数字.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="Mat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="offer12-机器人的运动范围.h">
+      <Filter>Mat</Filter>
+    </ClInclude>
+    <ClInclude Include="内存泄漏检测.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="offer-20 表示数字的字符串.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="offer27-打印矩阵.h">
+      <Filter>Mat</Filter>
+    </ClInclude>
+    <ClInclude Include="56-2数组中数字出现的次数.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="56-1数组中数字出现的次数.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="offer55-二叉树深度.h">
+      <Filter>Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="33-二叉搜索树的后序遍历.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="offer-51-数组中的逆序队.h">
+      <Filter>Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="41-数据流中的中位数.h">
+      <Filter>Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="nc-huawei2.h">
+      <Filter>NowCoder</Filter>
+    </ClInclude>
+    <ClInclude Include="nc-简单错误记录.h">
+      <Filter>NowCoder</Filter>
+    </ClInclude>
+    <ClInclude Include="死锁.h">
+      <Filter>Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="274-h指数.h">
+      <Filter>Binary_search</Filter>
+    </ClInclude>
+    <ClInclude Include="443-压缩字符串.h">
+      <Filter>String</Filter>
+    </ClInclude>
+    <ClInclude Include="1818-绝对差值和.h">
+      <Filter>Binary_search</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
